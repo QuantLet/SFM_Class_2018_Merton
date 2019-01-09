@@ -3,7 +3,7 @@ rm(list = ls(all = TRUE))
 graphics.off()
 
 ## Loading Libraries
-libraries         = c("ggplot2", "reshape2", "stats", "zoo", "tidyr", "lattice")
+libraries = c("ggplot2", "reshape2", "stats", "zoo", "tidyr", "lattice")
 
 lapply(libraries, function(x) if (!(x %in% installed.packages())) {
   install.packages(x)

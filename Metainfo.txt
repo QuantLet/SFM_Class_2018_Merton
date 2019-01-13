@@ -1,5 +1,5 @@
 
-Name of QuantLet : SFM_Merton
+Name of QuantLet : SFM_Class_2018_Merton
 
 Published in : SFM
 
